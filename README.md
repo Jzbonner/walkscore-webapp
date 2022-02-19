@@ -3,6 +3,7 @@ An internal tool for displaying walkability information for a particular neighbo
 
 ## Build Info
 * main-build branch: Built with React.js, WalkScore API, Express.js, Chakra UI, Tailwind CSS and React Icons
+* dev-build branch: Built with React.js, WalkScore API, Express.js, Chakra UI, Tailwind CSS, SWR and React Icons
 
 ## Figma Links
 * Links to design files: 
